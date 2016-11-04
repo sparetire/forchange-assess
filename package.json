@@ -18,6 +18,6 @@
   "homepage": "https://github.com/sparetire/forchange-assess#readme",
   "dependencies": {
     "co": "^4.6.0",
-    "forchange-http": "^0.1.4"
+    "forchange-http": "^0.1.5"
   }
 }
