@@ -1,6 +1,6 @@
 {
   "name": "forchange-assess",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "assess服务相关的API操作",
   "main": "index.js",
   "scripts": {
